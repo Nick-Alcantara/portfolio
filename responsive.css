@@ -29,7 +29,7 @@
     }
   }
   
-  @media (max-width: 1195px) {
+  @media (max-width: 1200px) and (min-width: 500px) {
   
     figure figcaption {
       display: none;
@@ -69,7 +69,7 @@
       width: 80px;
       height: 80px;
       margin-top: auto;
-      margin-top: -1470px;
+      margin-top: -1680px;
       margin-left: 400px;
 
   
